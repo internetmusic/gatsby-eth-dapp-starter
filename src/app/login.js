@@ -24,6 +24,7 @@ function Login() {
 
     const walletButtons = _.map(Wallet.typeMap(), (walletData, walletType) => {
         const disabled = !Wallet.isEnabled(walletType);
+
         return (
             <Box key={walletType} mb={2}>
                 <Button size="small" onClick={_walletConnect(walletType)} disabled={disabled}>{walletData.name}</Button>

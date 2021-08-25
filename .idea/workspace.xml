@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d80ab86-5c89-4003-b2b5-36e4c924ec65" name="Default Changelist" comment="" />
+    <list default="true" id="8d80ab86-5c89-4003-b2b5-36e4c924ec65" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,7 +223,7 @@
       <workItem from="1574354747914" duration="191000" />
       <workItem from="1574455897214" duration="15213000" />
       <workItem from="1574538460438" duration="2353000" />
-      <workItem from="1629888954340" duration="1032000" />
+      <workItem from="1629888954340" duration="1182000" />
     </task>
     <task id="LOCAL-00001" summary="Added MetaMask&#10;Minor updates and refactors">
       <created>1574140795624</created>
@@ -299,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629889346607</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updates to UI/Readme">
+      <created>1629890586787</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1629890586787</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -343,8 +353,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Added MetaMask&#10;Minor updates and refactors" />
     <MESSAGE value="Added Native Web3 support" />
     <MESSAGE value="Added Torus support&#10;minor refactors" />
@@ -356,6 +365,7 @@
     <MESSAGE value="Add RimbleUI&#10;minor fixes" />
     <MESSAGE value="Updates to UI/Readme" />
     <option name="LAST_COMMIT_MESSAGE" value="Updates to UI/Readme" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/app/components/NavBar.js" />
